@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.balysv.materialmenu:material-menu-1.5.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/17cf9f9b54cf9d56bc705afb9fb26b17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/17cf9f9b54cf9d56bc705afb9fb26b17/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
