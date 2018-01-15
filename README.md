@@ -1,8 +1,8 @@
-# Amanzing Places App
+# Amazing Places App
 
-A simple mobile app created with **react-native**
+A great mobile app created using **react-native**
 
-A nice example to see a working project with:
+This is a nice project example that uses the following tools:
 - react-native;
 - redux;
 - redux-thunk;
