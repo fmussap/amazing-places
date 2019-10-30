@@ -18,3 +18,4 @@ yarn-error.log*
 .firebaserc
 src/config/keys.js
 functions/amazing-places.json
+yarn.lock
